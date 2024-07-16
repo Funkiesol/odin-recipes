@@ -1,1 +1,2 @@
 # odin-recipes
+Odin-recipes focuses on implementing the basic skills of git and creating a HTML web. We will be focusing on creating a web that showcase recipes while ensuring good git commit practices.
